@@ -1,0 +1,2 @@
+# jGeo
+JavaScript ქართულად
